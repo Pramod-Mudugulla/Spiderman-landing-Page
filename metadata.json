@@ -1,0 +1,7 @@
+{
+  "name": "Spider-Man: Across the Dimensions",
+  "description": "A premium, cinematic 3D landing page experience for the upcoming Spider-Man movie featuring interactive character profiles, a multiverse gallery, and an AI-powered Spider-Computer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
